@@ -1,0 +1,35 @@
+C:\Users\dora\Desktop\yk\çek\çek\bin\Debug\çek.exe.config
+C:\Users\dora\Desktop\yk\çek\çek\bin\Debug\çek.exe
+C:\Users\dora\Desktop\yk\çek\çek\bin\Debug\çek.pdb
+C:\Users\dora\Desktop\yk\çek\çek\obj\Debug\çek.csprojAssemblyReference.cache
+C:\Users\dora\Desktop\yk\çek\çek\obj\Debug\çek.Form1.resources
+C:\Users\dora\Desktop\yk\çek\çek\obj\Debug\çek.Properties.Resources.resources
+C:\Users\dora\Desktop\yk\çek\çek\obj\Debug\çek.csproj.GenerateResource.cache
+C:\Users\dora\Desktop\yk\çek\çek\obj\Debug\çek.csproj.CoreCompileInputs.cache
+C:\Users\dora\Desktop\yk\çek\çek\obj\Debug\çek.exe
+C:\Users\dora\Desktop\yk\çek\çek\obj\Debug\çek.pdb
+C:\Users\dora\Desktop\yk\çek\çek\obj\Debug\çek.Form2.resources
+C:\Users\Pc\Desktop\yk\çek\çek\bin\Debug\çek.exe.config
+C:\Users\Pc\Desktop\yk\çek\çek\bin\Debug\çek.exe
+C:\Users\Pc\Desktop\yk\çek\çek\bin\Debug\çek.pdb
+C:\Users\Pc\Desktop\yk\çek\çek\obj\Debug\çek.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\yk\çek\çek\obj\Debug\çek.Form1.resources
+C:\Users\Pc\Desktop\yk\çek\çek\obj\Debug\çek.Properties.Resources.resources
+C:\Users\Pc\Desktop\yk\çek\çek\obj\Debug\çek.csproj.GenerateResource.cache
+C:\Users\Pc\Desktop\yk\çek\çek\obj\Debug\çek.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\yk\çek\çek\obj\Debug\çek.exe
+C:\Users\Pc\Desktop\yk\çek\çek\obj\Debug\çek.pdb
+C:\Users\Pc\Desktop\yk\çek\çek\obj\Debug\çek.Form2.resources
+C:\Users\Pc\Desktop\yk\çek\çek\obj\Debug\çek.Form3.resources
+C:\Users\Pc\Desktop\Çek Takip Arşivleme ve Yazdırma\Proje\çek\çek\bin\Debug\çek.exe.config
+C:\Users\Pc\Desktop\Çek Takip Arşivleme ve Yazdırma\Proje\çek\çek\bin\Debug\çek.exe
+C:\Users\Pc\Desktop\Çek Takip Arşivleme ve Yazdırma\Proje\çek\çek\bin\Debug\çek.pdb
+C:\Users\Pc\Desktop\Çek Takip Arşivleme ve Yazdırma\Proje\çek\çek\obj\Debug\çek.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\Çek Takip Arşivleme ve Yazdırma\Proje\çek\çek\obj\Debug\çek.Form1.resources
+C:\Users\Pc\Desktop\Çek Takip Arşivleme ve Yazdırma\Proje\çek\çek\obj\Debug\çek.Form2.resources
+C:\Users\Pc\Desktop\Çek Takip Arşivleme ve Yazdırma\Proje\çek\çek\obj\Debug\çek.Form3.resources
+C:\Users\Pc\Desktop\Çek Takip Arşivleme ve Yazdırma\Proje\çek\çek\obj\Debug\çek.Properties.Resources.resources
+C:\Users\Pc\Desktop\Çek Takip Arşivleme ve Yazdırma\Proje\çek\çek\obj\Debug\çek.csproj.GenerateResource.cache
+C:\Users\Pc\Desktop\Çek Takip Arşivleme ve Yazdırma\Proje\çek\çek\obj\Debug\çek.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Çek Takip Arşivleme ve Yazdırma\Proje\çek\çek\obj\Debug\çek.exe
+C:\Users\Pc\Desktop\Çek Takip Arşivleme ve Yazdırma\Proje\çek\çek\obj\Debug\çek.pdb
