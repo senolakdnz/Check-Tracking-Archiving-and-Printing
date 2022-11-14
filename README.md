@@ -18,3 +18,11 @@ Sonrasında kaydettiğimiz kaydı silebilmek için silmek istediğimiz kaydın �
 
 ![kayıt silme](https://user-images.githubusercontent.com/116383204/201542153-8cf22a4d-3453-4fea-910c-eeb6253802ca.jpg)
 
+Kayıt sayısını bulabilmek için "Kayıt Sayısı" tuşuna basmamız yeterlidir. // In order to find the number of records, it is sufficient to press the "Number of Records" button.
+
+![kayıt sayısı](https://user-images.githubusercontent.com/116383204/201737410-6bba1199-4932-46f0-83a0-80b4512c988e.jpg)
+
+İstediğimiz herhangi bir kaydı bulmak için ise kaydın çek nosunu "Arama" yerine bulmak istediğimiz kaydın çek numarasını yazmamız yeterlidir. // In order to find any record we want, it is sufficient to write the check number of the record we want to find instead of "Search" for the check number of the record.
+
+![kayıt arama](https://user-images.githubusercontent.com/116383204/201737834-0498094f-5316-4837-82c3-c88e6aa48621.jpg)
+
