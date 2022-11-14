@@ -22,8 +22,10 @@ Kayıt sayısını bulabilmek için "Kayıt Sayısı" tuşuna basmamız yeterlid
 
 ![kayıt sayısı](https://user-images.githubusercontent.com/116383204/201737410-6bba1199-4932-46f0-83a0-80b4512c988e.jpg)
 
+İstediğimiz herhangi bir kaydı bulmak için ise kaydın çek nosunu "Arama" yerine bulmak istediğimiz kaydın çek numarasını yazmamız yeterlidir. // In order to find any record we want, it is sufficient to write the check number of the record we want to find instead of "Search" for the check number of the record.
+
+![kayıt arama](https://user-images.githubusercontent.com/116383204/201738642-80d59526-0789-43cd-9db6-ec4d42ed9e6c.jpg)
+
 Kayıtları tuttuğumuz tabloyu yazıcıdan çıktısını almak için ise "Yazdır" butonuna basmamız yeterlidir. // In order to print the table we keep the records from, it is sufficient to press the "Print" button.
 
 ![tabloyu yazdırma](https://user-images.githubusercontent.com/116383204/201738284-ce60df9f-4ea4-4cd8-bf78-be4f2cb4ac82.jpg)
-
-
