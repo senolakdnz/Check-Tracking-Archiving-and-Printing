@@ -26,3 +26,8 @@ Kayıt sayısını bulabilmek için "Kayıt Sayısı" tuşuna basmamız yeterlid
 
 ![kayıt arama](https://user-images.githubusercontent.com/116383204/201737834-0498094f-5316-4837-82c3-c88e6aa48621.jpg)
 
+Kayıtları tuttuğumuz tabloyu yazıcıdan çıktısını almak için ise "Yazdır" butonuna basmamız yeterlidir. // In order to print the table we keep the records from, it is sufficient to press the "Print" button.
+
+![tabloyu yazdırma](https://user-images.githubusercontent.com/116383204/201738284-ce60df9f-4ea4-4cd8-bf78-be4f2cb4ac82.jpg)
+
+
