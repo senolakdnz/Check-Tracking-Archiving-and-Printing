@@ -29,3 +29,17 @@ Kayıt sayısını bulabilmek için "Kayıt Sayısı" tuşuna basmamız yeterlid
 Kayıtları tuttuğumuz tabloyu yazıcıdan çıktısını almak için ise "Yazdır" butonuna basmamız yeterlidir. // In order to print the table we keep the records from, it is sufficient to press the "Print" button.
 
 ![tabloyu yazdırma](https://user-images.githubusercontent.com/116383204/201738284-ce60df9f-4ea4-4cd8-bf78-be4f2cb4ac82.jpg)
+
+İstersek direkt olarak aşağıda görmüş olduğunuz gibi alanları doldurarak çek yazdırabiliriz. // If we want, we can print a check directly by filling in the fields as you can see below.
+
+![çek](https://user-images.githubusercontent.com/116383204/201873779-c6e8773d-9a4c-4422-b599-6d6f043901d9.jpg)
+
+"Yazdır" butonuna tıklayarak çekimizi yazdıralım. // Click the "Print" button to print your check.
+
+![yazdır](https://user-images.githubusercontent.com/116383204/201874037-b18fb084-3df2-4486-a5aa-130c5840d1fd.jpg)
+
+PROJEMİ BURAYA KADAR İNCELEDİĞİNİZ İÇİN TEŞEKKÜR EDERİM.
+
+THANK YOU FOR WATCHING MY PROJECT SO FAR.
+
+By Senol AKDENİZ.
